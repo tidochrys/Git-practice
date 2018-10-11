@@ -1,3 +1,5 @@
 Name: Chris
 Age: 24
 Fav color: Black
+profession: IT ENGINEER
+Ironhacker
